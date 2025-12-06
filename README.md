@@ -40,5 +40,14 @@ This project is a Laravel-based money transfer system that enables users to send
 ## Status
 Project is under development and open for improvement.
 
+## Skills Demonstrated
+- MVC Architecture
+- Role-Based Access Control
+- Database Design
+- Secure Authentication
+- CRUD Operations
+- Laravel Routing & Controllers
+
+
 ## Author
 Mohammad Ali Shkeir
